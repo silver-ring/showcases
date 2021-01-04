@@ -16,3 +16,7 @@ A full project build from scratch for payment to telecom companies. project impl
 A full project based on firebase, javascript (nodejs, express) and angular (ionic) to convert text to speech
 - Web: http://www.speako.io/
 - Mobile: https://play.google.com/store/apps/details?id=io.speako
+
+## [racon](https://github.com/silver-ring/racon):
+
+A simple tool to validate structuriz archticture models. the tool build on javascript, nodejs, typescript and fayi
