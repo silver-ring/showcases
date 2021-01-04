@@ -17,6 +17,10 @@ A full project based on firebase, javascript (nodejs, express) and angular (ioni
 - Web: http://www.speako.io/
 - Mobile: https://play.google.com/store/apps/details?id=io.speako
 
-## [racon](https://github.com/silver-ring/racon):
+## [Racon](https://github.com/silver-ring/racon):
 
 A simple tool to validate structuriz archticture models. the tool build on javascript, nodejs, typescript and fayi
+
+## [Design Patterns](https://github.com/silver-ring/designpatterns)
+
+Excersises for implementing common design patterns
