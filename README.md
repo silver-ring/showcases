@@ -23,4 +23,4 @@ A simple tool to validate structuriz archticture models. the tool build on javas
 
 ## [Design Patterns](https://github.com/silver-ring/designpatterns)
 
-Excersises for implementing common design patterns
+Exercises for implementing common design patterns
