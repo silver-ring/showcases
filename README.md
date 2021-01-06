@@ -20,6 +20,8 @@ A full project based on firebase, javascript (nodejs, express) and angular (ioni
 ## [Racon](https://github.com/silver-ring/racon):
 
 A simple tool to validate structuriz archticture models. the tool build on javascript, nodejs, typescript and fayi
+It also uses Neo4j as a graph database to build up a graph for components for source code
+Also it integrates with google sheet to provide a report about the findings
 
 ## [Design Patterns](https://github.com/silver-ring/designpatterns)
 
