@@ -24,3 +24,13 @@ A simple tool to validate structuriz archticture models. the tool build on javas
 ## [Design Patterns](https://github.com/silver-ring/designpatterns)
 
 Exercises for implementing common design patterns
+
+
+## [Project Manager](https://github.com/silver-ring/project-manager):
+A simple api show case to manager projects based on kotline and springboot. Its a practical example of applying design patterns on actions the following is some of used design patters:
+- template method: to implement exectuor
+- command pattern to implement validation context
+- facade to implement api controller
+- Null object for request and response objects
+- Strategy pattern for error handeling
+- Proxy pattern for integration
