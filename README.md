@@ -23,7 +23,7 @@ A simple tool to validate structuriz archticture models. the tool build on javas
 
 ## [turing](https://github.com/silver-ring/turing)
 
-Exam management api backend service. the api is using nestjs (typescipt, graphql, mysql)
+Exam management api backend service. the api is using nestjs (typescipt, graphql, typeorm, mysql)
 
 ## [Design Patterns](https://github.com/silver-ring/designpatterns)
 
